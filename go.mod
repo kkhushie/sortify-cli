@@ -1,3 +1,3 @@
-module File-Organizer-CLI-Project
+module sortify
 
 go 1.25.0

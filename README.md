@@ -2,6 +2,9 @@
 
 A lightweight and efficient CLI tool built in Go to automatically organize files into categorized folders based on their type.
 
+## Download latest release from: https://github.com/kkhushie/sortify-cli/releases
+
+
 ## Features
 
 * Automatically sorts files into categories (images, documents, videos, etc.)

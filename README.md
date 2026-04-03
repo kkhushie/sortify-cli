@@ -2,14 +2,14 @@
 
 A lightweight and efficient CLI tool built in Go to automatically organize files into categorized folders based on their type.
 
-## ✨ Features
+## Features
 
 * Automatically sorts files into categories (images, documents, videos, etc.)
 * Creates folders dynamically if they don’t exist
 * Clean and fast file operations
 * Simple CLI-based interaction
 
-## 📦 Categories Supported
+## Categories Supported
 
 * Images (.jpg, .png, .jpeg)
 * Documents (.pdf, .docx, .txt)
@@ -18,7 +18,7 @@ A lightweight and efficient CLI tool built in Go to automatically organize files
 * Audio (.mp3,.wav)
 * Others (fallback category)
 
-## 🚀 Usage
+## Usage
 
 ```bash
 go run .
@@ -31,7 +31,7 @@ Enter the folder path when prompted.
 * Go (Golang)
 * Standard Library (os, filepath, strings)
 
-## 📌 Note
+## Note
 
 This tool moves files from the original directory into categorized folders. Use it on test directories before applying to important data.
 
